@@ -1,4 +1,9 @@
 /*
+Copyright (C) <2018-2019> <Tankut Zeytinoğlu>
+You can find the text of zlib license in the root folder.
+*/
+
+/*
 
 gcc main.c glad.c -IC:\mingw_dev_lib\include\SDL2 -LC:\mingw_dev_lib\lib -lmingw32 -lopengl32 -lSDL2main -lSDL2 -lSDL2_image -o main.exe -ansi -std=c89 -pedantic -w
 
