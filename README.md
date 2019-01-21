@@ -1,2 +1,0 @@
-# DanceOfPixels
-Game Engine
