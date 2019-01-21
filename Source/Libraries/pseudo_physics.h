@@ -1,3 +1,8 @@
+/*
+Copyright (C) <2018-2019> <Tankut Zeytinoğlu>
+You can find the text of zlib license in the root folder.
+*/
+
 #ifndef PSEUDO_PHYSICS_H
 #define PSEUDO_PHYSICS_H
 
