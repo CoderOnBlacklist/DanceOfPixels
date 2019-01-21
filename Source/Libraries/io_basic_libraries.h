@@ -1,3 +1,8 @@
+/*
+Copyright (C) <2018-2019> <Tankut Zeytinoğlu>
+You can find the text of zlib license in the root folder.
+*/
+
 #ifndef IO_BASIC_LIBRARIES_H
 #define IO_BASIC_LIBRARIES_H
 
