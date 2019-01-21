@@ -1,3 +1,8 @@
+/*
+Copyright (C) <2018-2019> <Tankut Zeytinoğlu>
+You can find the text of zlib license in the root folder.
+*/
+
 function loadTexture(url) {
   const texture = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, texture);
