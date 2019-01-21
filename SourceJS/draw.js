@@ -1,3 +1,8 @@
+/*
+Copyright (C) <2018-2019> <Tankut Zeytinoğlu>
+You can find the text of zlib license in the root folder.
+*/
+
 function SWmapToHWMap(v){
 	v.e[0]=2*(v.e[0])/canvas.width-1;
 	v.e[1]=1-2*(v.e[1])/canvas.height;
